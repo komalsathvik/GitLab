@@ -6,8 +6,8 @@ Lists existing branches or creates new ones.
 
 ## Commands
 
-git branch
-git branch feature
+`git branch`
+`git branch feature`
 
 **Why Branches?**
 
