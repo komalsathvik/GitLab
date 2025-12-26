@@ -6,8 +6,13 @@ Switches between branches.
 
 ## Commands
 
-`git checkout feature`
-`git checkout -b new-branch`
+```bash
+git checkout feature
+```
+
+```bash
+git checkout -b new-branch
+```
 
 ## Explanation
 

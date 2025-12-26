@@ -6,8 +6,13 @@ Combines changes from one branch into another.
 
 ## Example
 
-`git checkout main`
-`git merge feature`
+```bash
+git checkout main
+```
+
+```bash
+git merge feature
+```
 
 ## Merge Conflict
 
