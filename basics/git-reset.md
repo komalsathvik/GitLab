@@ -1,4 +1,3 @@
-````md
 # git reset
 
 ## Description
@@ -10,6 +9,7 @@ Used to undo commits or move changes out of staging.
 ```bash
 git reset --soft HEAD~1
 ```
+
 ````
 
 **Mixed Reset (default)**
@@ -34,3 +34,4 @@ Deletes changes permanently
 **Warning**
 
 Avoid --hard unless you are absolutely sure.
+````
