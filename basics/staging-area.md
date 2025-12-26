@@ -17,7 +17,3 @@ Working Directory → Staging Area → Repository
 ## Key Idea
 
 Only files in the staging area get committed.
-
-```
-
-```
